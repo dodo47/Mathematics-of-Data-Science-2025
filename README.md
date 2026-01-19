@@ -17,4 +17,4 @@ The course covers:
 
 ### Acknowledgments
 
-The lecture is based on the incredible work of previous lecturers and book authors! The references I used can be found in 'Literature.pdf'.
+The lecture is based on the incredible work of previous lecturers and book authors! The references I used can be found in 'Literature.pdf'. The font used in the slides/PDFs is *Beaufort for LOL*.
